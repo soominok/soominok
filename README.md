@@ -1,4 +1,5 @@
-# Soomin&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%soominok%soominok)]
+# Soomin&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoominok%2Fsoominok)](https://hits.seeyoufarm.com) 
+
 
 ### Hi I'm Soomin 👋
 
