@@ -1,3 +1,5 @@
+# Soomin&nbsp;[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%soominok%soominok)](https://hits.seeyoufarm.com) 
+
 ### Hi I'm Soomin 👋
 
 ![soominok's github stats](https://github-readme-stats.vercel.app/api?username=soominok&show_icons=true)
