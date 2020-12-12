@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there, I'm Soomin👋 </h2> 
+<h2 align=center> Hi there, I'm Soomin👋 </h2> 
 
 <div align=center>
   
@@ -6,8 +6,6 @@
 
 </div>
 
-<div align=center>
-  
 ### 🌱 I’m currently learning
 - Python (Flask)
 - MySQL & MariaDB
@@ -21,7 +19,6 @@
 ### 📫 How to reach me <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssoominok@gmail.com)](mailto:ssoominok@gmail.com)
 
-</div>
 
 <!--
 **soominok/soominok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
