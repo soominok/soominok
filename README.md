@@ -6,11 +6,14 @@
 
 </div>
 
+### 💬 About Me
+- Seoul, Korea
+- Major : Applied statistics
+
 ### 🌱 I’m currently learning
 - Python (Flask)
 - MySQL  |  MariaDB
 - Data Science
-- React
 - Visual Studio Code  |  Jupyter Notebook  |  PyCharm  |  Intellij
 
 
