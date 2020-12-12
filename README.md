@@ -8,13 +8,14 @@
 
 ### 🌱 I’m currently learning
 - Python (Flask)
-- MySQL & MariaDB
+- MySQL  |  MariaDB
 - Data Science
 - React
+- Visual Studio Code  |  Jupyter Notebook  |  PyCharm  |  Intellij
 
 ### ✨ Github stats
 ![soominok's Github stats](https://github-readme-stats.vercel.app/api?username=soominok&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=soominok&theme=highcontrast&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=soominok&theme=highcontrast)
 
 ### 📫 How to reach me <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssoominok@gmail.com)](mailto:ssoominok@gmail.com)
