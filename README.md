@@ -6,10 +6,6 @@
 
 </div>
 
-### 💬 About Me
-- Seoul, Korea
-- Applied statistics
-
 ### 🌱 I’m currently learning
 - Python (Flask)
 - MySQL  |  MariaDB
