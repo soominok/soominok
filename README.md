@@ -8,7 +8,7 @@
 
 ### 💬 About Me
 - Seoul, Korea
-- Major : Applied statistics
+- Applied statistics
 
 ### 🌱 I’m currently learning
 - Python (Flask)
