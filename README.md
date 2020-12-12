@@ -21,7 +21,7 @@
 
 
 ### 📫 How to reach me <br/>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssoominok@gmail.com)](mailto:ssoominok@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssoominok@gmail.com)](mailto:ssoominok@gmail.com) ssoominok@gmail.com
 
 
 <!--
