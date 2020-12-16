@@ -10,7 +10,7 @@
 - Python (Flask)
 - MySQL  |  MariaDB
 - Data Science
-- Visual Studio Code  |  Jupyter Notebook  |  PyCharm  |  Intellij
+- Visual Studio Code  |  Jupyter Notebook  |  PyCharm  |  Intellij  | AWS
 
 
 ### ✨ Github stats
