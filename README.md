@@ -9,7 +9,7 @@
 ### 🌱 I’m currently learning
 - Python (Flask)
 - MySQL  |  MariaDB
-- Machine Learning (sklearn, keras)
+- Machine Learning (scikit-learn, keras)
 - Visual Studio Code  |  Jupyter Notebook  |  PyCharm  |  Intellij  | AWS
 
 
