@@ -6,7 +6,7 @@
 
 </div>
 
-### 🌱 I’m currently learning
+<!-- ### 🌱 I’m currently learning
 - Python (Flask)
 - MySQL  |  MariaDB
 - Machine Learning (scikit-learn, keras)
@@ -23,7 +23,7 @@
 ### 📫 Contacts <br/>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssoominok@gmail.com)](mailto:ssoominok@gmail.com)
 
-
+ -->
 <!--
 **soominok/soominok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
